@@ -1,0 +1,18 @@
+body {
+  font-family: "Noto Sans JP", "sans-serif";
+}
+
+a {
+  display: inline;
+}
+.chapters {
+  border: 5px solid #d5aa77;
+  background: ;
+}
+
+.pdf {
+  width: 70vw;
+  height: 100vw;
+  margin: 0 auto;
+  display: block;
+}
